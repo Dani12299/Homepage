@@ -1,0 +1,4 @@
+10 HTML tags: head, body, main, footer, nav, p, a, img, link, ul, mega, script
+5 CSS properties: background-image, justify-content, margin,font-family, font-size, padding
+
+JS use: I want to make the navbar items in mobile devices to be listed out when clicked on the top right corner icon --> I write in JS a addEventListener function to classList.toggle when clicked.
